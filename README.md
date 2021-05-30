@@ -1,4 +1,4 @@
-<h1 align="center">hand-gesture-recognition</h1>
+<h1 align="center">Hand Gesture Recognition</h1>
 <div align="center">
   
 <a href="https://github.com/Jimmy5467/hand-gesture-recognition/stargazers"><img src="https://img.shields.io/github/stars/Jimmy5467/hand-gesture-recognition?style=flat-square"/></a> 
