@@ -14,4 +14,4 @@
 </div>  
 
 
-It's a try to replace the mouse with a hand gesture :hand: 
+In this Project we tried to use hand as mouse in laptop, for example when we show fist to camera it will perform right click and when we move hand it will move cusor and many such task can be added. But the drawback is that this project is not accurate we can cant use in day to day life, it can be just used for fun purpose. 
